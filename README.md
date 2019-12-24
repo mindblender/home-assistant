@@ -8,7 +8,7 @@
 * [Aeotec Door/Window Sensor 6](https://amzn.to/31BQo2W)
 * [Aeotec Recessed Door Sensor Gen5](https://amzn.to/31CCNZw)
 * [Aeotec Smart Switch 6](https://amzn.to/2NninA8)
-* [Amazon Echo](https://amzn.to/30yv5hs) X1
+* [Amazon Echo](https://amzn.to/30yv5hs) x1
 * [Amazon Echo Dot Gen 2](https://amzn.to/30snukx) x2
 * [Amazon Echo Dot Gen 3](https://amzn.to/2OdcpRY) x1
 * [Amazon Fire TV 4K Ultra HD](https://amzn.to/2OeuM95)
