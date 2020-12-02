@@ -29,6 +29,7 @@
 
 
 # Hardware
+* [AXIS Q6045-E - Network Camera](https://www.axis.com/en-us/products/axis-q6045-e-mki)
 * [Dell R620 Server](https://www.dell.com/en-us/work/shop/cty/poweredge-r620-rack-server/spd/poweredge-r620) hosting multiple platforms
 * [Netgear ReadyNAS NV+](https://amzn.to/2O7XvfP)
 * [Asustor AS7004T High-Performance NAS](https://amzn.to/32VqirU)
